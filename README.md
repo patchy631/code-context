@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Use Code Context as MCP in Claude Code and others
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUgHZrQT1xNXvPLa5DuPQLpnK5yhHk6yJvLwcq5ZBAaUWo69tcyqalcChWFF4sjQ1mjUSBZgKqLKtD1edKnCPq2af6D_jGRNvwyTEc2UcGnJbsFw1mu_uSmdZHxTLdLO6dFAa8kg?key=_L-CtW461S9w7NRqzdFOIg)
 

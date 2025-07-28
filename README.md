@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zilliztech/code-context">
-    <img src="assets/code_context_logo_dark.png" width=600 alt="Code Context Logo">
+    <img src="assets/code_context_logo_dark.png" width=400 alt="Code Context Logo">
   </a>
   <h3 align="center"> Add Semantic Search to Claude Code</h2>
 </p>

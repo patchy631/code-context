@@ -11,7 +11,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org/)
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/zilliz.semanticcodesearch?label=VS%20Code%20Extension&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=zilliz.semanticcodesearch)
 [![npm - core](https://img.shields.io/npm/v/@zilliz/code-context-core?label=%40zilliz%2Fcode-context-core&logo=npm)](https://www.npmjs.com/package/@zilliz/code-context-core)
-[![npm - mcp](https://img.shields.io/npm/v/@zilliz/code-context-mcp?label=%40zilliz%2Fcode-context-mcp&logo=npm)](https://www.npmjs.com/package/@zilliz/code-context-mcp)
 </div>
 
 **Code Context** is an MCP plugin that adds semantic code search to Claude Code and other AI coding agents, giving them deep context from your entire codebase.
